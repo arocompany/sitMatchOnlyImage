@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class ConfigData {
     private Boolean isBatchFlag;
-
+    private Boolean isMainScheduler;
     private String driverClassName;
     private String url;
     private String userName;
@@ -15,7 +15,6 @@ public class ConfigData {
     private String hostImageUrl;
 
     private String serpApiKey;
-
 //
 //    private String externalLocation;
 
