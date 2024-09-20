@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>sit</artifactId>
+    <artifactId>sitOnlyImage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sit_match</name>
     <description>sit_match</description>
